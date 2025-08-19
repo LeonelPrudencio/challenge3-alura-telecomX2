@@ -1,11 +1,11 @@
-# 📊 Análisis Predictivo de Cancelación - Telecom X
+# 📊 Proyecto de Análisis Predictivo de Cancelación de Clientes en Telecom X
 
 ## 📌 Descripción
 Este proyecto desarrolla modelos de machine learning para predecir la probabilidad de cancelación de clientes en Telecom X. El objetivo es identificar factores de riesgo clave y proponer estrategias de retención basadas en insights de negocio.
 
 ## 📂 Dataset
 Se utilizó la base de datos de clientes de Telecom X procesado previamente:
-[telecom_clientes.csv]([https://www.google.com](https://drive.google.com/file/d/1J6Yhr6Ff1MW5DAsM8gMQf3qT2rTCFMAT/view?usp=drive_link))
+[telecom_clientes.csv](https://drive.google.com/file/d/1J6Yhr6Ff1MW5DAsM8gMQf3qT2rTCFMAT/view?usp=drive_link)
 
 ## ⚙️ Proceso
 
@@ -26,25 +26,25 @@ Se utilizó la base de datos de clientes de Telecom X procesado previamente:
 
 ## 📊 Principales Gráficas
 
-**Matriz de correlación de variables numéricas**  
+### 1. Matriz de correlación de variables numéricas
 <img width="1230" height="1004" alt="image" src="https://github.com/user-attachments/assets/00e4e923-1ee0-4cee-a1d4-b4436f48a441" />
 
 
-**Top 10 variables con mayor correlación con la variable evasión**  
+### 2. Top 10 variables con mayor correlación con la variable evasión
 <img width="1074" height="548" alt="image" src="https://github.com/user-attachments/assets/3db0d84b-c520-4ebd-aa5e-95e0094cc12c" />
 
 
-**Comparación de modelos**  
+### 3. Comparación de modelos 
 <img width="1389" height="616" alt="image" src="https://github.com/user-attachments/assets/f460e5ea-2d6e-4f04-9d51-cc0ed7394083" />
 <img width="1389" height="616" alt="image" src="https://github.com/user-attachments/assets/ba301937-ce5c-4a39-a7fb-65657f4bf3a6" />
 <img width="1389" height="616" alt="image" src="https://github.com/user-attachments/assets/0b969583-3b3d-48d1-8a11-2947a7ec2c6a" />
 
 
-**Matrices de confusión comparativas**  
+### 4. Matrices de confusión comparativas
 <img width="1383" height="1181" alt="image" src="https://github.com/user-attachments/assets/e709c9a3-f64b-4fc2-8bb8-146ef73be179" />
 
 
-**Variables clave por modelo**  
+### 5. Variables clave por modelo
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/8eef0451-a8ba-4a1d-90f8-b60ff1a5029e" />
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/8592e876-622e-4b82-bf90-307c5fa026d5" />
 
