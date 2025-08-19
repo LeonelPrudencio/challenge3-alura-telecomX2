@@ -1,4 +1,4 @@
-# 📊 Proyecto de Análisis Predictivo de Cancelación de Clientes en Telecom X
+# Proyecto de Análisis Predictivo de Cancelación de Clientes en Telecom X
 
 ## 📌 Descripción
 Este proyecto desarrolla modelos de machine learning para predecir la probabilidad de cancelación de clientes en Telecom X. El objetivo es identificar factores de riesgo clave y proponer estrategias de retención basadas en insights de negocio.
